@@ -1,0 +1,25 @@
+.form{
+    margin: 10px auto 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.form input{
+    padding: 5px 10px;
+    border: none;
+    outline: none;
+    border: 1px solid transparent;
+    margin-bottom: 10px;
+    width: 50%;
+}
+.form button{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.form input:focus{
+    border-color: aqua;
+}
+

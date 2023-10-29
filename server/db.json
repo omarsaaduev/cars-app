@@ -1,0 +1,21 @@
+{
+
+
+    "cars": [
+        {
+            "id": "1",
+            "name": "buggati",
+            "price": "36800",
+            "image": "https://avatars.mds.yandex.net/i?id=9ba4fe9141f9e8314d9e044070c0d814b1d73875-11003961-images-thumbs&n=13"
+        },
+        {
+            "id": "2",
+            "name": "Toyota Camry",
+            "price": "24900",
+            "image": "https://avatars.mds.yandex.net/i?id=28ec90ede536067c623f7b445fc3dee7bb88ba5d-10680870-images-thumbs&n=13"
+        }
+    ]
+
+
+
+}
